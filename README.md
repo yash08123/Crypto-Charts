@@ -1,8 +1,40 @@
-# React + Vite
+# Crypto Trading Chart Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Crypto Trading Chart Viewer! This web app allows you to view real-time candlestick charts for various cryptocurrencies, providing you with valuable insights for trading.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Real-time Charts**: View live candlestick charts for popular cryptocurrencies like ETH/USDT, BNB/USDT, and DOT/USDT.
+- **Time Interval Selection**: Choose between different time intervals (1 minute, 3 minutes, 5 minutes) to customize your view.
+- **Responsive Design**: Enjoy a clean and responsive layout suitable for both desktop and mobile devices.
+- **Persistent Data**: Switch between cryptocurrencies without losing historical chart data.
+
+## Technologies Used
+This project is built using the following technologies:
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **TradingView Widgets**: For displaying interactive and customizable charts.
+
+## Installation
+To set up the project on your local machine, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yash08123/Crypto-Charts.git
+   
+2. **Install Dependencies**:
+   ```bash
+   npm install
+
+3. **Run the application**:
+   ```bash
+   npm run dev
+   
+
+
+
+   
