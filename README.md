@@ -37,8 +37,6 @@ To set up the project on your local machine, follow these steps:
 3. **Run the application**:
    ```bash
    npm run dev
-   
-
 
 
    
